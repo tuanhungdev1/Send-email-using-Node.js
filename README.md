@@ -9,7 +9,7 @@
 1. Clone repository này:
 
 ```
-git clone <[link_repository](https://github.com/tuanhungdev1/Send-email-using-Node.js.git)>
+git clone https://github.com/tuanhungdev1/Send-email-using-Node.js.git
 ```
 
 2. Di chuyển vào thư mục dự án:
